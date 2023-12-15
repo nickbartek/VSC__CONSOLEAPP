@@ -17,7 +17,7 @@ class Program
             if (IsValidEmail(email))
             {
                 isValid = true;
-                Console.WriteLine("Adres e-mail jest poprawny.");
+                Console.WriteLine("Adres e-mail jest poprawny.dziekuje ");
             }
             else
             {
